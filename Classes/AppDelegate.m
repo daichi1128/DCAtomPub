@@ -59,6 +59,7 @@
 	 *AtomPubクライアントではてなブックマークを追加
 	 */
 	DCAtomPubClient *atomClient = [[DCAtomPubClient alloc] initWithUsername:username password:password];
+	atomClient.delegate = [[DummyDelegate alloc] init];
 	
 	NSString *hatenaPostURL = @"http://b.hatena.ne.jp/atom/post";
 	NSString *postXMLTemplate = 

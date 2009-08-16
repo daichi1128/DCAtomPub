@@ -200,8 +200,8 @@
 	<array/>
 	<key>PerspectiveWidths</key>
 	<array>
-		<integer>1618</integer>
-		<integer>1618</integer>
+		<integer>1055</integer>
+		<integer>1055</integer>
 	</array>
 	<key>Perspectives</key>
 	<array>
@@ -323,10 +323,16 @@
 										<key>_historyCapacity</key>
 										<integer>0</integer>
 										<key>bookmark</key>
-										<string>E3589E101037869400F9B64B</string>
+										<string>E3589E6F1037921100F9B64B</string>
 										<key>history</key>
 										<array>
-											<string>E3589E0E1037868600F9B64B</string>
+											<string>E3589E68103791F800F9B64B</string>
+											<string>E3589E6E103791FF00F9B64B</string>
+										</array>
+										<key>prevStack</key>
+										<array>
+											<string>E3589E5B103791BF00F9B64B</string>
+											<string>E3589E6A103791F800F9B64B</string>
 										</array>
 									</dict>
 									<key>SplitCount</key>
@@ -421,7 +427,7 @@
 									<key>GeometryConfiguration</key>
 									<dict>
 										<key>Frame</key>
-										<string>{{10, 27}, {1411, 283}}</string>
+										<string>{{10, 27}, {848, 283}}</string>
 									</dict>
 									<key>Module</key>
 									<string>PBXBuildResultsModule</string>
@@ -449,11 +455,11 @@
 			</array>
 			<key>TableOfContents</key>
 			<array>
-				<string>E3589E111037869400F9B64B</string>
+				<string>E3589E5E103791BF00F9B64B</string>
 				<string>1CA23ED40692098700951B8B</string>
-				<string>E3589E121037869400F9B64B</string>
+				<string>E3589E5F103791BF00F9B64B</string>
 				<string>E313B0401037641500D15010</string>
-				<string>E3589E131037869400F9B64B</string>
+				<string>E3589E60103791BF00F9B64B</string>
 				<string>1CA23EDF0692099D00951B8B</string>
 				<string>1CA23EE00692099D00951B8B</string>
 				<string>1CA23EE10692099D00951B8B</string>
@@ -502,12 +508,12 @@
 					<key>GeometryConfiguration</key>
 					<dict>
 						<key>Frame</key>
-						<string>{{0, 0}, {1618, 355}}</string>
+						<string>{{0, 0}, {1055, 342}}</string>
 					</dict>
 					<key>Module</key>
 					<string>PBXDebugCLIModule</string>
 					<key>Proportion</key>
-					<string>355pt</string>
+					<string>342pt</string>
 				</dict>
 				<dict>
 					<key>ContentConfiguration</key>
@@ -526,8 +532,8 @@
 								<string>yes</string>
 								<key>sizes</key>
 								<array>
-									<string>{{0, 0}, {810, 221}}</string>
-									<string>{{0, 221}, {810, 222}}</string>
+									<string>{{0, 0}, {528, 213}}</string>
+									<string>{{0, 213}, {528, 213}}</string>
 								</array>
 							</dict>
 							<key>VerticalSplitView</key>
@@ -542,8 +548,8 @@
 								<string>yes</string>
 								<key>sizes</key>
 								<array>
-									<string>{{0, 0}, {810, 443}}</string>
-									<string>{{810, 0}, {808, 443}}</string>
+									<string>{{0, 0}, {528, 426}}</string>
+									<string>{{528, 0}, {527, 426}}</string>
 								</array>
 							</dict>
 						</dict>
@@ -563,7 +569,7 @@
 						<key>DebugSTDIOWindowFrame</key>
 						<string>{{200, 200}, {500, 300}}</string>
 						<key>Frame</key>
-						<string>{{0, 360}, {1618, 443}}</string>
+						<string>{{0, 347}, {1055, 426}}</string>
 						<key>PBXDebugSessionStackFrameViewKey</key>
 						<dict>
 							<key>DebugVariablesTableConfiguration</key>
@@ -573,16 +579,16 @@
 								<string>Value</string>
 								<real>85</real>
 								<string>Summary</string>
-								<real>580</real>
+								<real>298</real>
 							</array>
 							<key>Frame</key>
-							<string>{{0, 221}, {810, 222}}</string>
+							<string>{{0, 213}, {528, 213}}</string>
 						</dict>
 					</dict>
 					<key>Module</key>
 					<string>PBXDebugSessionModule</string>
 					<key>Proportion</key>
-					<string>443pt</string>
+					<string>426pt</string>
 				</dict>
 			</array>
 			<key>Name</key>
@@ -600,14 +606,14 @@
 			</array>
 			<key>TableOfContents</key>
 			<array>
-				<string>E3589E141037869400F9B64B</string>
+				<string>E3589E61103791BF00F9B64B</string>
 				<string>1CCC7628064C1048000F2A68</string>
 				<string>1CCC7629064C1048000F2A68</string>
-				<string>E3589E151037869400F9B64B</string>
-				<string>E3589E161037869400F9B64B</string>
-				<string>E3589E171037869400F9B64B</string>
-				<string>E3589E181037869400F9B64B</string>
-				<string>E3589E191037869400F9B64B</string>
+				<string>E3589E62103791BF00F9B64B</string>
+				<string>E3589E63103791BF00F9B64B</string>
+				<string>E3589E64103791BF00F9B64B</string>
+				<string>E3589E65103791BF00F9B64B</string>
+				<string>E313B0401037641500D15010</string>
 			</array>
 			<key>ToolbarConfiguration</key>
 			<string>xcode.toolbar.config.debugV3</string>

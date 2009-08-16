@@ -7,7 +7,6 @@
 //
 
 #import <UIKit/UIKit.h>
-#import "Global.h"
 
 @interface AppDelegate : NSObject <UIApplicationDelegate> {
     UIWindow *window;
