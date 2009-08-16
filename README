@@ -1,8 +1,22 @@
 DCAtomPubはObjective-CでAtomPubを簡単に操作できるライブラリです。
-ライセンスはフリーです。どうぞお好きなように。
 
 XCode画面から見たDCAtomPubグループ内がコアファイル群です。
 HatenaExampleははてなブックマーク用のクライアントです。
 
 AppDelegate.mで簡単なサンプルを用意しています。
 アプリ実行前にAppDelegate.m内のusernameとpasswordを変更してから試してください。
+
+* License
+The new BSD license
+
+* 3rd parties
+Base64EncDec
+-----------------
+Author: Takeshi Yamane
+
+CocoaCryptoHashing
+-----------------
+Author: Denis Defreyne
+        Chris Verwymeren
+
+
