@@ -1,6 +1,6 @@
 //
 //  DCHatenaClient.m
-//  earth
+//  DCAtomPub
 //
 //  Created by 長 大地 on 09/08/16.
 //  Copyright 2009 Daichi Cho. All rights reserved.

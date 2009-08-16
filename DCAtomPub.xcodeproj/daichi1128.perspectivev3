@@ -230,8 +230,6 @@
 			<key>Layout</key>
 			<array>
 				<dict>
-					<key>BecomeActive</key>
-					<true/>
 					<key>ContentConfiguration</key>
 					<dict>
 						<key>PBXBottomSmartGroupGIDs</key>
@@ -306,12 +304,14 @@
 					<key>Dock</key>
 					<array>
 						<dict>
+							<key>BecomeActive</key>
+							<true/>
 							<key>ContentConfiguration</key>
 							<dict>
 								<key>PBXProjectModuleGUID</key>
 								<string>E313B0401037641500D15010</string>
 								<key>PBXProjectModuleLabel</key>
-								<string>AppDelegate.m</string>
+								<string>AppDelegate.h</string>
 								<key>PBXSplitModuleInNavigatorKey</key>
 								<dict>
 									<key>Split0</key>
@@ -319,20 +319,52 @@
 										<key>PBXProjectModuleGUID</key>
 										<string>E313B0411037641500D15010</string>
 										<key>PBXProjectModuleLabel</key>
-										<string>AppDelegate.m</string>
+										<string>AppDelegate.h</string>
 										<key>_historyCapacity</key>
 										<integer>0</integer>
 										<key>bookmark</key>
-										<string>E3589E6F1037921100F9B64B</string>
+										<string>E3589E92103792B600F9B64B</string>
 										<key>history</key>
 										<array>
-											<string>E3589E68103791F800F9B64B</string>
-											<string>E3589E6E103791FF00F9B64B</string>
+											<string>E3589E70103792B600F9B64B</string>
+											<string>E3589E71103792B600F9B64B</string>
+											<string>E3589E72103792B600F9B64B</string>
+											<string>E3589E73103792B600F9B64B</string>
+											<string>E3589E74103792B600F9B64B</string>
+											<string>E3589E75103792B600F9B64B</string>
+											<string>E3589E76103792B600F9B64B</string>
+											<string>E3589E77103792B600F9B64B</string>
+											<string>E3589E78103792B600F9B64B</string>
+											<string>E3589E79103792B600F9B64B</string>
+											<string>E3589E7A103792B600F9B64B</string>
+											<string>E3589E7B103792B600F9B64B</string>
+											<string>E3589E7C103792B600F9B64B</string>
+											<string>E3589E7D103792B600F9B64B</string>
+											<string>E3589E7E103792B600F9B64B</string>
 										</array>
 										<key>prevStack</key>
 										<array>
 											<string>E3589E5B103791BF00F9B64B</string>
 											<string>E3589E6A103791F800F9B64B</string>
+											<string>E3589E7F103792B600F9B64B</string>
+											<string>E3589E80103792B600F9B64B</string>
+											<string>E3589E81103792B600F9B64B</string>
+											<string>E3589E82103792B600F9B64B</string>
+											<string>E3589E83103792B600F9B64B</string>
+											<string>E3589E84103792B600F9B64B</string>
+											<string>E3589E85103792B600F9B64B</string>
+											<string>E3589E86103792B600F9B64B</string>
+											<string>E3589E87103792B600F9B64B</string>
+											<string>E3589E88103792B600F9B64B</string>
+											<string>E3589E89103792B600F9B64B</string>
+											<string>E3589E8A103792B600F9B64B</string>
+											<string>E3589E8B103792B600F9B64B</string>
+											<string>E3589E8C103792B600F9B64B</string>
+											<string>E3589E8D103792B600F9B64B</string>
+											<string>E3589E8E103792B600F9B64B</string>
+											<string>E3589E8F103792B600F9B64B</string>
+											<string>E3589E90103792B600F9B64B</string>
+											<string>E3589E91103792B600F9B64B</string>
 										</array>
 									</dict>
 									<key>SplitCount</key>
